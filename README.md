@@ -2,8 +2,8 @@
 
 ## Introduction
 
-## Cooperative
+## 1. Cooperative
 
-## Competitive
+## 2. Competitive
 
-## Mixed Cooperative-Competitive
+## 3. Mixed Cooperative-Competitive
