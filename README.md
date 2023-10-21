@@ -1,1 +1,9 @@
-# LLM-For-MAS-Paper-List
+# LLMs for Multi-Agent Systems (MASs)
+
+## Introduction
+
+## Cooperative
+
+## Competitive
+
+## Mixed Cooperative-Competitive
