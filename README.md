@@ -20,12 +20,19 @@ Large Language Models (LLMs) have been widely applied to various real-world appl
 - [2023/10/16] **Theory of Mind for Multi-Agent Collaboration via Large Language Models.** *Huao Li et al. EMNLP2023 Main Conference.* [[paper](https://arxiv.org/abs/2310.10701v1)]
 - [2023/10/15] **AutoAgents: A Framework for Automatic Agent Generation.** *Guangyao Chen et al. arXiv.* [[paper](https://arxiv.org/abs/2309.17288)] [[code](https://github.com/Link-AGI/AutoAgents)]
 - [2023/10/13] **Welfare Diplomacy: Benchmarking Language Model Cooperation.** *Gabriel Mukobi et al. arXiv.* [[paper](https://arxiv.org/abs/2310.08901)] [[code](https://github.com/mukobi/welfare-diplomacy)]
+- [2023/10/08] **Agents: An Open-source Framework for Autonomous Language Agents.** *Wangchunshu Zhou et al. arXiv.* [[paper](https://arxiv.org/abs/2309.07870)] [[code](https://github.com/aiwaves-cn/agents)]
 - [2023/10/07] **AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors.** *Weize Chen et al. arXiv.* [[paper](https://arxiv.org/abs/2308.10848)]
 - [2023/10/03] **Dynamic LLM-Agent Network: An LLM-agent Collaboration Framework with Agent Team Optimization.** *Zijun Liu et al. arXiv.* [[paper](https://arxiv.org/abs/2310.02170)] [[code](https://github.com/SALT-NLP/DyLAN)]
 - [2023/10/03] **AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation.** *Qingyun Wu et al. arXiv.* [[paper](https://arxiv.org/abs/2308.08155)] [[code](https://github.com/microsoft/autogen)]
+- [2023/08/28] **CGMI: Configurable General Multi-Agent Interaction Framework.** *Shi Jinxin et al. arXiv.* [[paper](https://arxiv.org/abs/2308.12503)]
+- [2023/08/28] **ProAgent: Building Proactive Cooperative AI with Large Language Models.** *Ceyao Zhang et al. arXiv.* [[paper](https://arxiv.org/abs/2308.11339)] [[code](https://github.com/PKU-Alignment/ProAgent)]
+- [2023/08/17] **MetaGPT: Meta Programming for Multi-Agent Collaborative Framework.** *Sirui Hong et al. arXiv.* [[paper](https://arxiv.org/abs/2308.00352)] [[code](https://github.com/geekan/MetaGPT)]
+- [2023/07/10] **RoCo: Dialectic Multi-Robot Collaboration with Large Language Models.** *Zhao Mandi et al. arXiv.* [[paper](https://arxiv.org/abs/2307.04738)] [[code](https://github.com/MandiZhao/robot-collab)]
 - [2023/06/05] **Multi-Agent Collaboration: Harnessing the Power of Intelligent LLM Agents.** *Yashar Talebirad et al. arXiv.* [[paper](https://arxiv.org/abs/2306.03314)]
 - [2023/05/30] **Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate.** *Tian Liang et al. arXiv.* [[paper](https://arxiv.org/abs/2305.19118)] [[code](https://github.com/Skytliang/Multi-Agents-Debate)]
 - [2023/05/23] **Improving Factuality and Reasoning in Language Models through Multiagent Debate.** *Yilun Du et al. arXiv.* [[paper](https://arxiv.org/abs/2305.14325)] [[code](https://github.com/composable-models/llm_multiagent_debate)]
+- [2023/04/24] **ChatLLM Network: More brains, More intelligence.** *Rui Hao et al. arXiv.* [[paper](https://arxiv.org/abs/2304.12998)]
+- [2023/01/12] **Blind Judgement: Agent-Based Supreme Court Modelling With GPT.** *Sil Hamilton. AAAI-23 Workshop on Creative AI Across Modalities.* [[paper](https://arxiv.org/abs/2301.05327)]
 
 ## 2. Competitive
 
