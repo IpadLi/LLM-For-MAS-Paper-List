@@ -24,6 +24,8 @@ Large Language Models (LLMs) have been widely applied to various real-world appl
 - [2023/10/03] **Dynamic LLM-Agent Network: An LLM-agent Collaboration Framework with Agent Team Optimization.** *Zijun Liu et al. arXiv.* [[paper](https://arxiv.org/abs/2310.02170)] [[code](https://github.com/SALT-NLP/DyLAN)]
 - [2023/10/03] **AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation.** *Qingyun Wu et al. arXiv.* [[paper](https://arxiv.org/abs/2308.08155)] [[code](https://github.com/microsoft/autogen)]
 - [2023/06/05] **Multi-Agent Collaboration: Harnessing the Power of Intelligent LLM Agents.** *Yashar Talebirad et al. arXiv.* [[paper](https://arxiv.org/abs/2306.03314)]
+- [2023/05/30] **Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate.** *Tian Liang et al. arXiv.* [[paper](https://arxiv.org/abs/2305.19118)] [[code](https://github.com/Skytliang/Multi-Agents-Debate)]
+- [2023/05/23] **Improving Factuality and Reasoning in Language Models through Multiagent Debate.** *Yilun Du et al. arXiv.* [[paper](https://arxiv.org/abs/2305.14325)] [[code](https://github.com/composable-models/llm_multiagent_debate)]
 
 ## 2. Competitive
 
