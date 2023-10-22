@@ -22,6 +22,8 @@ Large Language Models (LLMs) have been widely applied to various real-world appl
 - [2023/10/13] **Welfare Diplomacy: Benchmarking Language Model Cooperation.** *Gabriel Mukobi et al. arXiv.* [[paper](https://arxiv.org/abs/2310.08901)] [[code](https://github.com/mukobi/welfare-diplomacy)]
 - [2023/10/07] **AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors.** *Weize Chen et al. arXiv.* [[paper](https://arxiv.org/abs/2308.10848)]
 - [2023/10/03] **Dynamic LLM-Agent Network: An LLM-agent Collaboration Framework with Agent Team Optimization.** *Zijun Liu et al. arXiv.* [[paper](https://arxiv.org/abs/2310.02170)] [[code](https://github.com/SALT-NLP/DyLAN)]
+- [2023/10/03] **AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation.** *Qingyun Wu et al. arXiv.* [[paper](https://arxiv.org/abs/2308.08155)] [[code](https://github.com/microsoft/autogen)]
+- [2023/06/05] **Multi-Agent Collaboration: Harnessing the Power of Intelligent LLM Agents.** *Yashar Talebirad et al. arXiv.* [[paper](https://arxiv.org/abs/2306.03314)]
 
 ## 2. Competitive
 
