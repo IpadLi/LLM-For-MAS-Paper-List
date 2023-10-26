@@ -50,10 +50,10 @@ Large Language Models (LLMs) have been widely applied to various real-world appl
 
 ## 3. Mixed Motivate
 
+- [2023/10/24] **Avalon's Game of Thoughts: Battle Against Deception through Recursive Contemplation.** *Shenzhi Wang et al. arXiv.* [[paper](https://arxiv.org/abs/2310.01320)]
 - [2023/10/23] **LLM-Based Agent Society Investigation: Collaboration and Confrontation in Avalon Gameplay.** *Yihuai Lan et al. arXiv.* [[paper](https://arxiv.org/abs/2310.14985)]
 - [2023/10/13] **Welfare Diplomacy: Benchmarking Language Model Cooperation.** *Gabriel Mukobi et al. arXiv.* [[paper](https://arxiv.org/abs/2310.08901)] [[code](https://github.com/mukobi/welfare-diplomacy)]
 - [2023/10/08] **From Text to Tactic: Evaluating LLMs Playing the Game of Avalon.** *Jonathan Light et al. arXiv.* [[paper](https://arxiv.org/abs/2310.05036)] [[code](https://github.com/jonathanmli/Avalon-LLM)]
-- [2023/10/06] **Avalon's Game of Thoughts: Battle Against Deception through Recursive Contemplation.** *Shenzhi Wang et al. arXiv.* [[paper](https://arxiv.org/abs/2310.01320)]
 - [2023/09/06] **Exploring Large Language Models for Communication Games: An Empirical Study on Werewolf.** *Yuzhuang Xu et al. arXiv.* [[paper](https://arxiv.org/abs/2309.04658)]
 
 
