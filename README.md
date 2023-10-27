@@ -62,5 +62,6 @@ Large Language Models (LLMs) have been widely applied to various real-world appl
 
 - [2023/10/16] **Mechanism Design for Large Language Models.** *Paul Duetting et al. arXiv.* [[paper](https://arxiv.org/abs/2310.10826)]
 - [2023/10/09] **Put Your Money Where Your Mouth Is: Evaluating Strategic Planning and Execution of LLM Agents in an Auction Arena.** *Jiangjie Chen et al. arXiv.* [[paper](https://arxiv.org/abs/2310.05746)] [[code](https://github.com/jiangjiechen/auction-arena)]
+- [2023/10/03] **Exploring Collaboration Mechanisms for LLM Agents: A Social Psychology View.** *Jintian Zhang et al. arXiv.* [[paper](https://arxiv.org/abs/2310.02124)] [[code](https://github.com/zjunlp/MachineSoM)]
 - [2023/05/23] **Human Choice Prediction in Language-based Non-Cooperative Games: Simulation-based Off-Policy Evaluation.** *Eilam Shapira et al. arXiv.* [[paper](https://arxiv.org/abs/2305.10361)]
 - [2023/05/13] **Investigating Emergent Goal-Like Behaviour in Large Language Models Using Experimental Economics.** *Steve Phelps et al. arXiv.* [[paper](https://arxiv.org/abs/2305.07970)]
