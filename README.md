@@ -47,6 +47,7 @@ Large Language Models (LLMs) have been widely applied to various real-world appl
 - [2023/05/26] **Playing repeated games with Large Language Models.** *Elif Akata et al. arXiv.* [[paper](https://arxiv.org/abs/2305.16867)]
 - [2023/05/09] **GPT Agents in Game Theory Experiments.** *Fulin Guo. arXiv.* [[paper](https://arxiv.org/abs/2305.05516)]
 - [2023/03/02] **Population-based Evaluation in Repeated Rock-Paper-Scissors as a Benchmark for Multiagent Reinforcement Learning.** *Marc Lanctot et al. arXiv.* [[paper](https://arxiv.org/abs/2303.03196)]
+- [2022/11/22] **Human-Level Play in the Game of Diplomacy by Combining Language Models with Strategic Reasoning.** *Anton Bakhtin et al. Science.* [[paper](https://www.science.org/doi/10.1126/science.ade9097)] [[code](https://github.com/facebookresearch/diplomacy_cicero)]
 
 ## 3. Mixed Motivate
 
