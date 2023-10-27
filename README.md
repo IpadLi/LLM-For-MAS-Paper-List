@@ -19,10 +19,10 @@ Large Language Models (LLMs) have been widely applied to various real-world appl
 
 ## 1. Cooperative
 
-- [2023/10/16] **Theory of Mind for Multi-Agent Collaboration via Large Language Models.** *Huao Li et al. EMNLP2023 Main Conference.* [[paper](https://arxiv.org/abs/2310.10701v1)]
+- [2023/10/23] **AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors.** *Weize Chen et al. arXiv.* [[paper](https://arxiv.org/abs/2308.10848)] [[code](https://github.com/OpenBMB/AgentVerse/)]
+- [2023/10/22] **Theory of Mind for Multi-Agent Collaboration via Large Language Models.** *Huao Li et al. EMNLP2023 Main Conference.* [[paper](https://arxiv.org/abs/2310.10701)]
 - [2023/10/15] **AutoAgents: A Framework for Automatic Agent Generation.** *Guangyao Chen et al. arXiv.* [[paper](https://arxiv.org/abs/2309.17288)] [[code](https://github.com/Link-AGI/AutoAgents)]
 - [2023/10/08] **Agents: An Open-source Framework for Autonomous Language Agents.** *Wangchunshu Zhou et al. arXiv.* [[paper](https://arxiv.org/abs/2309.07870)] [[code](https://github.com/aiwaves-cn/agents)]
-- [2023/10/07] **AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors.** *Weize Chen et al. arXiv.* [[paper](https://arxiv.org/abs/2308.10848)]
 - [2023/10/05] **Evaluating Multi-Agent Coordination Abilities in Large Language Models.** *Saaket Agashe et al. arXiv.* [[paper](https://arxiv.org/abs/2310.03903)]
 - [2023/10/03] **Dynamic LLM-Agent Network: An LLM-agent Collaboration Framework with Agent Team Optimization.** *Zijun Liu et al. arXiv.* [[paper](https://arxiv.org/abs/2310.02170)] [[code](https://github.com/SALT-NLP/DyLAN)]
 - [2023/10/03] **AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation.** *Qingyun Wu et al. arXiv.* [[paper](https://arxiv.org/abs/2308.08155)] [[code](https://github.com/microsoft/autogen)]
