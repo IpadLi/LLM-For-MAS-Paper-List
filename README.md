@@ -38,6 +38,8 @@ Large Language Models (LLMs) have been widely applied to various real-world appl
 
 ## 2. Competitive
 
+- [2023/10/26] **CompeteAI: Understanding the Competition Behaviors in Large Language Model-based Agents.** *Qinlin Zhao et al. arXiv.* [[paper](https://arxiv.org/abs/2310.17512)]
+- [2023/10/13] **The Consensus Game: Language Model Generation via Equilibrium Search.** *Athul Paul Jacob et al. arXiv.* [[paper](https://arxiv.org/abs/2310.09139)]
 - [2023/10/10] **Red Teaming Game: A Game-Theoretic Framework for Red Teaming Language Models.** *Chengdong Ma et al. arXiv.* [[paper](https://arxiv.org/abs/2310.00322)]
 - [2023/10/06] **Suspicion-Agent: Playing Imperfect Information Games with Theory of Mind Aware GPT-4.** *Jiaxian Guo et al. arXiv.* [[paper](https://arxiv.org/abs/2309.17277)] [[code](https://github.com/CR-Gjx/Suspicion-Agent)]
 - [2023/09/12] **Strategic Behavior of Large Language Models: Game Structure vs. Contextual Framing.** *Nunzio Lorè et al. arXiv.* [[paper](https://arxiv.org/abs/2309.05898)]
