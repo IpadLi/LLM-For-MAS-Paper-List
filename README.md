@@ -56,6 +56,7 @@ Large Language Models (LLMs) have been widely applied to various real-world appl
 ## 3. Mixed Motivate
 
 - [2023/11/28] **War and Peace (WarAgent): Large Language Model-based Multi-Agent Simulation of World Wars.** *Wenyue Hua et al. arXiv.* [[paper](https://arxiv.org/abs/2311.17227)] [[code](https://github.com/agiresearch/WarAgent)]
+- [2023/11/16] **MAgIC: Investigation of Large Language Model Powered Multi-Agent in Cognition, Adaptability, Rationality and Collaboration.** *Lin Xu et al. arXiv.* [[paper](https://arxiv.org/abs/2311.08562)] [[code](https://github.com/cathyxl/MAgIC)]
 - [2023/10/24] **Avalon's Game of Thoughts: Battle Against Deception through Recursive Contemplation.** *Shenzhi Wang et al. arXiv.* [[paper](https://arxiv.org/abs/2310.01320)]
 - [2023/10/23] **LLM-Based Agent Society Investigation: Collaboration and Confrontation in Avalon Gameplay.** *Yihuai Lan et al. arXiv.* [[paper](https://arxiv.org/abs/2310.14985)]
 - [2023/10/13] **Welfare Diplomacy: Benchmarking Language Model Cooperation.** *Gabriel Mukobi et al. arXiv.* [[paper](https://arxiv.org/abs/2310.08901)] [[code](https://github.com/mukobi/welfare-diplomacy)]
