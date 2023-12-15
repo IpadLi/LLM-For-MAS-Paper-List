@@ -19,6 +19,10 @@ Large Language Models (LLMs) have been widely applied to various real-world appl
 
 ## 1. Cooperative
 
+- [2023/12/12] **Exploring Large Language Models to Facilitate Variable Autonomy for Human-Robot Teaming.** *Younes Lakhnati et al. arXiv.* [[paper](https://arxiv.org/abs/2312.07214)]
+- [2023/12/09] **Controlling Large Language Model-based Agents for Large-Scale Decision-Making: An Actor-Critic Approach.** *Bin Zhang et al. arXiv.* [[paper](https://arxiv.org/abs/2311.13884)]
+- [2023/11/16] **MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning.** *Xiangru Tang et al. arXiv.* [[paper](https://arxiv.org/abs/2311.10537)] [[code](https://github.com/gersteinlab/MedAgents)]
+- [2023/11/14] **Towards Reasoning in Large Language Models via Multi-Agent Peer Review Collaboration.** *Zhenran Xu et al. arXiv.* [[paper](https://arxiv.org/abs/2311.08152)] [[code](https://github.com/HITsz-TMG/Multi-agent-peer-review)]
 - [2023/10/23] **AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors.** *Weize Chen et al. arXiv.* [[paper](https://arxiv.org/abs/2308.10848)] [[code](https://github.com/OpenBMB/AgentVerse/)]
 - [2023/10/22] **Theory of Mind for Multi-Agent Collaboration via Large Language Models.** *Huao Li et al. EMNLP2023 Main Conference.* [[paper](https://arxiv.org/abs/2310.10701)]
 - [2023/10/15] **AutoAgents: A Framework for Automatic Agent Generation.** *Guangyao Chen et al. arXiv.* [[paper](https://arxiv.org/abs/2309.17288)] [[code](https://github.com/Link-AGI/AutoAgents)]
@@ -40,6 +44,7 @@ Large Language Models (LLMs) have been widely applied to various real-world appl
 
 - [2023/12/12] **Can Large Language Models Serve as Rational Players in Game Theory? A Systematic Analysis.** *Caoyun Fan et al. AAAI2024.* [[paper](https://arxiv.org/abs/2312.05488)]
 - [2023/11/06] **ALYMPICS: Language Agents Meet Game Theory.** *Shaoguang Mao et al. arXiv.* [[paper](https://arxiv.org/abs/2311.03220)]
+- [2023/11/06] **Leveraging Word Guessing Games to Assess the Intelligence of Large Language Models.** *Tian Liang et al. arXiv.* [[paper](https://arxiv.org/abs/2310.20499)] [[code](https://github.com/Skytliang/SpyGame)]
 - [2023/10/26] **CompeteAI: Understanding the Competition Behaviors in Large Language Model-based Agents.** *Qinlin Zhao et al. arXiv.* [[paper](https://arxiv.org/abs/2310.17512)]
 - [2023/10/13] **The Consensus Game: Language Model Generation via Equilibrium Search.** *Athul Paul Jacob et al. arXiv.* [[paper](https://arxiv.org/abs/2310.09139)]
 - [2023/10/10] **Red Teaming Game: A Game-Theoretic Framework for Red Teaming Language Models.** *Chengdong Ma et al. arXiv.* [[paper](https://arxiv.org/abs/2310.00322)]
@@ -55,6 +60,7 @@ Large Language Models (LLMs) have been widely applied to various real-world appl
 
 ## 3. Mixed Motivate
 
+- [2023/12/01] **Deciphering Digital Detectives: Understanding LLM Behaviors and Capabilities in Multi-Agent Mystery Games.** *Dekun Wu et al. arXiv.* [[paper](https://arxiv.org/abs/2312.00746)]
 - [2023/11/28] **War and Peace (WarAgent): Large Language Model-based Multi-Agent Simulation of World Wars.** *Wenyue Hua et al. arXiv.* [[paper](https://arxiv.org/abs/2311.17227)] [[code](https://github.com/agiresearch/WarAgent)]
 - [2023/11/16] **MAgIC: Investigation of Large Language Model Powered Multi-Agent in Cognition, Adaptability, Rationality and Collaboration.** *Lin Xu et al. arXiv.* [[paper](https://arxiv.org/abs/2311.08562)] [[code](https://github.com/cathyxl/MAgIC)]
 - [2023/10/24] **Avalon's Game of Thoughts: Battle Against Deception through Recursive Contemplation.** *Shenzhi Wang et al. arXiv.* [[paper](https://arxiv.org/abs/2310.01320)]
